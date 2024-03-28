@@ -11,9 +11,9 @@
 
 # 👋 Hola, soy Mario Hernandez
 
-## 👨‍💻 Desarrollador Web UI/UX y Desarrollador de Software
+## 👨‍💻 Desarrollador Web FullStack y Desarrollador de Software
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web UI/UX con experiencia en diversas tecnologías. Aquí encontrarás algunos de los proyectos en los que he trabajado y las habilidades que he adquirido a lo largo de mi carrera.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web FullStak con experiencia en diversas tecnologías. Aquí encontrarás algunos de los proyectos en los que he trabajado y las habilidades que he adquirido a lo largo de mi carrera.
 
 ## 🎓 Títulos:
 
