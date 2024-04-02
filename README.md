@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Desarrollador Web FullStack y Desarrollador de Software
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web FullStak con experiencia en diversas tecnologías. Aquí encontrarás algunos de los proyectos en los que he trabajado y las habilidades que he adquirido a lo largo de mi carrera.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web FullStak con experiencia en diversas tecnologías. Actualmente, también estoy inmerso en el emocionante mundo del desarrollo móvil Full-Stack, ampliando mis habilidades para crear aplicaciones intuitivas y de alto rendimiento. Aquí encontrarás algunos de los proyectos en los que he trabajado y las habilidades que he adquirido a lo largo de mi carrera.
 
 ## 🎓 Títulos:
 
