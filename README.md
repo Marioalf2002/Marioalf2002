@@ -2,18 +2,20 @@
     </br>
     <img src="https://img.shields.io/github/followers/marioalf2002?style=social" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/marioalf2002?style=social" alt="GitHub Stars" />
+    </br>
+    </br>
 </p>
 
 # 👋 Hola, soy Mario Hernandez
 
 ## 👨‍💻 Desarrollador Web Full-Stack y Estudiante Desarrollador Mobile Full-Stack
 
-<span style="font-size: 16px;">¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web FullStak con experiencia en diversas tecnologías. Actualmente, también estoy inmerso en el emocionante mundo del desarrollo Mobile Full-Stack, ampliando mis habilidades para crear aplicaciones intuitivas y de alto rendimiento. Aquí encontrarás algunos de los proyectos en los que he trabajado y las habilidades que he adquirido a lo largo de mi carrera.</span>
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web FullStak con experiencia en diversas tecnologías. Actualmente, también estoy inmerso en el emocionante mundo del desarrollo Mobile Full-Stack, ampliando mis habilidades para crear aplicaciones intuitivas y de alto rendimiento. Aquí encontrarás algunos de los proyectos en los que he trabajado y las habilidades que he adquirido a lo largo de mi carrera.
 
 ## 🎓 Títulos:
 
-- <span style="font-size: 16px;">Técnico en Desarrollo de Software</span>
-- <span style="font-size: 16px;">Estudiante de Tecnología Desarrollo de Software</span>
+- Técnico en Desarrollo de Software
+- Estudiante de Tecnología Desarrollo de Software
 
 ## 💻 Tecnología de Desarrollo de Software:
 
@@ -62,170 +64,77 @@
 
 ## 📚 Repositorios de interés:
 
-<span style="font-size: 16px;">Aquí tienes algunos de mis repositorios que podrían interesarte.</span>
+Aquí tienes algunos de mis repositorios que podrían interesarte:
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-
-li:hover {
-    transform: scale(1.1);
-    transition: transform 0.3s ease-in-out;
-}
-
-li {
-    transition: transform 0.5s ease-in-out;
-}
-
-li:not(:hover) {
-    transform: scale(1);
-}
-
-</style>
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="width: 50%;">
-        <ul style="list-style-type: none;">
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/PacCraft" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/paccraft.png" alt="PacCraft" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">PacCraft</span>
-                    </div>
-                </a>
-            </li>
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/starts" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/starts.png" alt="starts" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">starts</span>
-                    </div>
-                </a>
-            </li>
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/MedellinEcologicoWeb" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/medellinecologicoweb.png" alt="Medellin Ecologico Web" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">Medellin Ecologico Web</span>
-                    </div>
-                </a>
-            </li>
-           <li style="padding-top: 20px;">
-           <a href="https://github.com/Marioalf2002/GitList-Plugin-Glpi" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/asociacionasorredecol.png" alt="Asociación Asorredecol E.S.P" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">Asociación Asorredecol E.S.P</span>
-                    </div>
-                </a>
-            </li>
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/RetosProgramacion" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/retosprogramacion.png" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">Retos Programacion</span>
-                    </div>
-                </a>
-            </li>
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/Two-Factor-Authentication" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/2fa.jpg" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">Two Factor Authentication</span>
-                    </div>
-                </a>
-            </li>
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/Estudio_C_Sharp" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/csharp.webp" alt="Estudio C#" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">Estudio C#</span>
-                    </div>
-                </a>
-            </li>
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/SQLServer" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/sqlserver.png__i=AA" alt="SQLServer" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">SQLServer</span>
-                    </div>
-                </a>
-            </li>
-        </ul>
-    </div>
-    <div style="width: 50%;">
-        <ul style="list-style-type: none;">
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/galaxy-parallax-3d" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/galaxyparallax3d.png" alt="galaxy parallax 3d" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">galaxy parallax 3d</span>
-                    </div>
-                </a>
-            </li>
-            <li style="padding-top: 20px;">
-                <div style="display: flex; flex-direction: column; align-items: center;">
-                    <a href="https://github.com/Marioalf2002/galaxy-parallax" style="font-size: 24px;">
-                        <div style="display: flex; flex-direction: column; align-items: center;">
-                            <img src="img/galaxyparallax.png" alt="galaxy parallax" width="480" height="270" />
-                            <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">galaxy parallax</span>
-                        </div>
-                    </a>
-                </div>
-            </li>
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/Flutter" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/flutter.webp" alt="Flutter" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">Flutter</span>
-                    </div>
-                </a>
-            </li>
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/IC-Terraquantum" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/icterraquantum.png" alt="ICTerraquantum" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">ICTerraquantum</span>
-                    </div>
-                </a>
-            </li>
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/CursoJavaScript" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/js.png" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">Curso JavaScript</span>
-                    </div>
-                </a>
-            </li>
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/EstudioC" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/cplus.jpg" alt="Estudio C++" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">Estudio C++</span>
-                    </div>
-                </a>
-            </li>
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/Tienda" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/tienda.jpg" alt="Tienda" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">Tienda</span>
-                    </div>
-                </a>
-            </li>
-            <li style="padding-top: 20px;">
-                <a href="https://github.com/Marioalf2002/CursoPHPMySql" style="font-size: 24px;">
-                    <div style="display: flex; flex-direction: column; align-items: center;">
-                        <img src="img/php.png" alt="Curso PHP MySql" width="480" height="270" />
-                        <span style="text-align: center; font-family: Poppins; font-weight: 600; padding-top: 5px;">Curso PHP MySql</span>
-                    </div>
-                </a>
-            </li>
-        </ul>
-    </div>
-</div>
+<table style="width:100%">
+    <tr>
+        <td>            
+            <a href="https://github.com/Marioalf2002/PacCraft"><img src="img/paccraft.png" alt="PacCraft" width="480" height="270"></a>
+        </td>
+        <td>            
+            <a href="https://github.com/Marioalf2002/starts"><img src="img/starts.png" alt="Starts" width="480" height="270"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>            
+            <a href="https://github.com/Marioalf2002/galaxy-parallax-3d"><img src="img/galaxyparallax3d.png" alt="Galaxy Parallax 3D" width="480" height="270"></a>
+        </td>
+        <td>            
+            <a href="https://github.com/Marioalf2002/galaxy-parallax"><img src="img/galaxyparallax.png" alt="Galaxy Parallax" width="480" height="270"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>        
+            <a href="https://github.com/Marioalf2002/Two-Factor-Authentication"><img src="img/2fa.jpg" alt="Two Factor Authentication" width="480" height="270"></a>
+        </td>
+        <td>
+            <a href="https://github.com/Marioalf2002/MedellinEcologicoWeb"><img src="img/medellinecologicoweb.png" alt="Medellin Ecologico Web" width="480" height="270"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>          
+            <a href="https://github.com/Marioalf2002/SQLServer"><img src="img/sqlserver.png__i=AA" alt="SQLServer" width="480" height="270"></a>
+        </td>
+        <td>
+            <a href="https://github.com/Marioalf2002/RetosProgramacion"><img src="img/retosprogramacion.png" alt="Retos Programacion" width="480" height="270"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Marioalf2002/Estudio_C_Sharp"><img src="img/csharp.webp" alt="Estudio C#" width="480" height="270"></a>
+        </td>
+        <td>            
+            <a href="https://asociacionasorredecol.com/"><img src="img/asociacionasorredecol.png" alt="Asociación Asorredecol E.S.P" width="480" height="270"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>            
+            <a href="https://github.com/Marioalf2002/CursoJavaScript"><img src="img/js.png" alt="Curso JavaScript" width="480" height="270"></a>
+        </td>
+        <td>            
+            <a href="https://github.com/Marioalf2002/EstudioC"><img src="img/cplus.jpg" alt="Estudio C++" width="480" height="270"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>            
+            <a href="https://github.com/Marioalf2002/IC-Terraquantum"><img src="img/icterraquantum.png" alt="Pagina Web ICTerraquantum" width="480" height="270"></a>
+        </td>
+        <td>            
+            <a href="https://github.com/Marioalf2002/GitList-Plugin-Glpi"><img src="img/gitlistglpi.png" alt="GitList Plugin Glpi" width="480" height="270"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>            
+            <a href="https://github.com/Marioalf2002/Tienda"><img src="img/tienda.jpg" alt="Tienda" width="480" height="270"></a>
+        </td>
+        <td>            
+            <a href="https://github.com/Marioalf2002/CursoPHPMySql"><img src="img/php.png" alt="Curso PHP MySql" width="480" height="270"></a>
+        </td>
+    </tr>
+</table>
 
 ## 🙏 ¡Gracias por visitar mi perfil de GitHub! 🙌
 
-<span style="font-size: 16px;">
 Espero que encuentres interesantes mis proyectos y que podamos colaborar en el futuro. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
 ¡Gracias nuevamente y que tengas una excelente experiencia escribiendo código! 😊
-</span>
