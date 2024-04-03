@@ -70,46 +70,43 @@ Aquí tienes algunos de mis repositorios que podrían interesarte:
 
 <table style="width:100%">
     <tr>
-        <td style="background-color: #101010;">            
+        <td>            
             <a href="https://github.com/Marioalf2002/PacCraft"><img src="img/paccraft.png" alt="PacCraft" width="480" height="270"></a>
         </td>
-        <td style="background-color: #101010;">            
+        <td>            
             <a href="https://github.com/Marioalf2002/starts"><img src="img/starts.png" alt="Starts" width="480" height="270"></a>
         </td>
     </tr>
     <tr>
-        <td style="background-color: #101010;">            
+        <td>            
             <a href="https://github.com/Marioalf2002/galaxy-parallax-3d"><img src="img/galaxyparallax3d.png" alt="Galaxy Parallax 3D" width="480" height="270"></a>
         </td>
-        <td style="background-color: #101010;">            
+        <td>            
             <a href="https://github.com/Marioalf2002/galaxy-parallax"><img src="img/galaxyparallax.png" alt="Galaxy Parallax" width="480" height="270"></a>
         </td>
     </tr>
     <tr>
-        <td style="background-color: #101010;">        
+        <td>        
             <a href="https://github.com/Marioalf2002/Two-Factor-Authentication"><img src="img/2fa.jpg" alt="Two Factor Authentication" width="480" height="270"></a>
         </td>
-        <td style="background-color: #101010;">
+        <td>
             <a href="https://github.com/Marioalf2002/MedellinEcologicoWeb"><img src="img/medellinecologicoweb.png" alt="Medellin Ecologico Web" width="480" height="270"></a>
         </td>
     </tr>
     <tr>
-        <td style="background-color: #101010;">          
+        <td>          
             <a href="https://github.com/Marioalf2002/SQLServer"><img src="img/sqlserver.png__i=AA" alt="SQLServer" width="480" height="270"></a>
         </td>
-        <td style="background-color: #101010;">
+        <td>
             <a href="https://github.com/Marioalf2002/RetosProgramacion"><img src="img/retosprogramacion.png" alt="Retos Programacion" width="480" height="270"></a>
         </td>
     </tr>
     <tr>
-        <td style="background-color: #101010;">
+        <td>
             <a href="https://github.com/Marioalf2002/Estudio_C_Sharp"><img src="img/csharp.webp" alt="Estudio C#" width="480" height="270"></a>
         </td>
-        <td style="background-color: #101010;">            
+        <td>            
             <a href="https://asociacionasorredecol.com/"><img src="img/asociacionasorredecol.png" alt="Asociación Asorredecol E.S.P" width="480" height="270"></a>
-        </td>
-    </tr>
-</table>
         </td>
     </tr>
     <tr>
