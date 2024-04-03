@@ -31,36 +31,38 @@
 
 ## 🎨 Programas de Diseño:
 
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=101010)]()
-[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=101010)]()
-[![Audition](https://img.shields.io/badge/Audition-FF4500?style=for-the-badge&logo=adobe-audition&logoColor=white&labelColor=101010)]()
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)]()
+[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=FF9A00)]()
+[![Audition](https://img.shields.io/badge/Audition-FF4500?style=for-the-badge&logo=adobe-audition&logoColor=white&labelColor=FF4500)]()
 </br>
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
-[![Spline](https://img.shields.io/badge/Spline-FF69B4?style=for-the-badge&logo=spline&logoColor=white&labelColor=101010)]()
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)]()
+[![Spline](https://img.shields.io/badge/Spline-FF69B4?style=for-the-badge&logo=spline&logoColor=white&labelColor=FF69B4)]()
 </br>
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=101010)]()
-[![CapCut](https://img.shields.io/badge/CapCut-FF0000?style=for-the-badge&logo=capcut&logoColor=white&labelColor=101010)]()
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC)]()
+[![CapCut](https://img.shields.io/badge/CapCut-FF0000?style=for-the-badge&logo=capcut&logoColor=white&labelColor=FF0000)]()
 
 ## 👨‍💻 Lenguajes de Programación:
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)]()
+[![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange)]()
+[![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue)]()
 </br>
-[![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-</br>
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-</br>
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=blue)]()
+[![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=purple)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)]()
 
 ## 🗄️ Programas de Base de Datos:
 
-[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-purple?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/sql-server)
-[![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://www.phpmyadmin.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue)](https://www.mysql.com/)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-purple?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=purple)](https://www.microsoft.com/en-us/sql-server)
+[![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)](https://www.phpmyadmin.net/)
+
+## 👨‍💻 Estudiando Lenguajes:
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)]()
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)]()
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)](https://nextjs.org/)
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)]()
 
 ## 📚 Repositorios de interés:
 
@@ -68,43 +70,46 @@ Aquí tienes algunos de mis repositorios que podrían interesarte:
 
 <table style="width:100%">
     <tr>
-        <td>            
+        <td style="background-color: #101010;">            
             <a href="https://github.com/Marioalf2002/PacCraft"><img src="img/paccraft.png" alt="PacCraft" width="480" height="270"></a>
         </td>
-        <td>            
+        <td style="background-color: #101010;">            
             <a href="https://github.com/Marioalf2002/starts"><img src="img/starts.png" alt="Starts" width="480" height="270"></a>
         </td>
     </tr>
     <tr>
-        <td>            
+        <td style="background-color: #101010;">            
             <a href="https://github.com/Marioalf2002/galaxy-parallax-3d"><img src="img/galaxyparallax3d.png" alt="Galaxy Parallax 3D" width="480" height="270"></a>
         </td>
-        <td>            
+        <td style="background-color: #101010;">            
             <a href="https://github.com/Marioalf2002/galaxy-parallax"><img src="img/galaxyparallax.png" alt="Galaxy Parallax" width="480" height="270"></a>
         </td>
     </tr>
     <tr>
-        <td>        
+        <td style="background-color: #101010;">        
             <a href="https://github.com/Marioalf2002/Two-Factor-Authentication"><img src="img/2fa.jpg" alt="Two Factor Authentication" width="480" height="270"></a>
         </td>
-        <td>
+        <td style="background-color: #101010;">
             <a href="https://github.com/Marioalf2002/MedellinEcologicoWeb"><img src="img/medellinecologicoweb.png" alt="Medellin Ecologico Web" width="480" height="270"></a>
         </td>
     </tr>
     <tr>
-        <td>          
+        <td style="background-color: #101010;">          
             <a href="https://github.com/Marioalf2002/SQLServer"><img src="img/sqlserver.png__i=AA" alt="SQLServer" width="480" height="270"></a>
         </td>
-        <td>
+        <td style="background-color: #101010;">
             <a href="https://github.com/Marioalf2002/RetosProgramacion"><img src="img/retosprogramacion.png" alt="Retos Programacion" width="480" height="270"></a>
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="background-color: #101010;">
             <a href="https://github.com/Marioalf2002/Estudio_C_Sharp"><img src="img/csharp.webp" alt="Estudio C#" width="480" height="270"></a>
         </td>
-        <td>            
+        <td style="background-color: #101010;">            
             <a href="https://asociacionasorredecol.com/"><img src="img/asociacionasorredecol.png" alt="Asociación Asorredecol E.S.P" width="480" height="270"></a>
+        </td>
+    </tr>
+</table>
         </td>
     </tr>
     <tr>
