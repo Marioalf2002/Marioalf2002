@@ -1,9 +1,4 @@
 <p align="center"> 
-    <b>Visitas al perfil</b>
-    <br>
-    </br>
-    <img src="https://profile-counter.glitch.me/marioalf2002/count.svg" alt="Visitas al perfil" />
-    </br>
     </br>
     <img src="https://img.shields.io/github/followers/marioalf2002?style=social" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/marioalf2002?style=social" alt="GitHub Stars" />
