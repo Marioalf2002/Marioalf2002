@@ -142,10 +142,10 @@
 <br>
     <tr>
         <td>            
-            <a href="https://github.com/Marioalf2002/PacCraft"><img src="img/paccraft.png" alt="PacCraft" width="480" height="270"></a>
+            <a href="https://github.com/Marioalf2002/PacCraft"><img src="img/paccraft.png" alt="PacCraft" width="480" height="250"></a>
         </td>
         <td>            
-            <a href="https://github.com/Marioalf2002/starts"><img src="img/starts.png" alt="Starts" width="480" height="270"></a>
+            <a href="https://github.com/Marioalf2002/starts"><img src="img/starts.png" alt="Starts" width="480" height="250"></a>
         </td>
     </tr>
     <tr>
@@ -153,55 +153,55 @@
             <a href="https://github.com/Marioalf2002/spline"><img src="img/spline.png" alt="Spline" width="480" height="250"></a>
         </td>
         <td>            
-            <a href="https://github.com/Marioalf2002/galaxy-parallax"><img src="img/galaxyparallax.png" alt="Galaxy Parallax" width="480" height="270"></a>
+            <a href="https://github.com/Marioalf2002/galaxy-parallax"><img src="img/galaxyparallax.png" alt="Galaxy Parallax" width="480" height="250"></a>
         </td>
     </tr>
     <tr>
         <td>        
-            <a href="https://github.com/Marioalf2002/Two-Factor-Authentication"><img src="img/2fa.jpg" alt="Two Factor Authentication" width="480" height="270"></a>
+            <a href="https://github.com/Marioalf2002/Two-Factor-Authentication"><img src="img/2fa.jpg" alt="Two Factor Authentication" width="480" height="250"></a>
         </td>
         <td>
-            <a href="https://github.com/Marioalf2002/MedellinEcologicoWeb"><img src="img/medellinecologicoweb.png" alt="Medellin Ecologico Web" width="480" height="270"></a>
+            <a href="https://github.com/Marioalf2002/MedellinEcologicoWeb"><img src="img/medellinecologicoweb.png" alt="Medellin Ecologico Web" width="480" height="250"></a>
         </td>
     </tr>
     <tr>
         <td>          
-            <a href="https://github.com/Marioalf2002/SQLServer"><img src="img/sqlserver.png__i=AA" alt="SQLServer" width="480" height="270"></a>
+            <a href="https://github.com/Marioalf2002/SQLServer"><img src="img/sqlserver.png__i=AA" alt="SQLServer" width="480" height="250"></a>
         </td>
         <td>
-            <a href="https://github.com/Marioalf2002/RetosProgramacion"><img src="img/retosprogramacion.png" alt="Retos Programacion" width="480" height="270"></a>
+            <a href="https://github.com/Marioalf2002/RetosProgramacion"><img src="img/retosprogramacion.png" alt="Retos Programacion" width="480" height="250"></a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/Marioalf2002/Estudio_C_Sharp"><img src="img/csharp.webp" alt="Estudio C#" width="480" height="270"></a>
+            <a href="https://github.com/Marioalf2002/Estudio_C_Sharp"><img src="img/csharp.webp" alt="Estudio C#" width="480" height="250"></a>
         </td>
         <td>            
-            <a href="https://asociacionasorredecol.com/"><img src="img/asociacionasorredecol.png" alt="Asociación Asorredecol E.S.P" width="480" height="270"></a>
-        </td>
-    </tr>
-    <tr>
-        <td>            
-            <a href="https://github.com/Marioalf2002/CursoJavaScript"><img src="img/js.png" alt="Curso JavaScript" width="480" height="270"></a>
-        </td>
-        <td>            
-            <a href="https://github.com/Marioalf2002/EstudioC"><img src="img/cplus.jpg" alt="Estudio C++" width="480" height="270"></a>
+            <a href="https://asociacionasorredecol.com/"><img src="img/asociacionasorredecol.png" alt="Asociación Asorredecol E.S.P" width="480" height="250"></a>
         </td>
     </tr>
     <tr>
         <td>            
-            <a href="https://github.com/Marioalf2002/IC-Terraquantum"><img src="img/icterraquantum.png" alt="Pagina Web ICTerraquantum" width="480" height="270"></a>
+            <a href="https://github.com/Marioalf2002/CursoJavaScript"><img src="img/js.png" alt="Curso JavaScript" width="480" height="250"></a>
         </td>
         <td>            
-            <a href="https://github.com/Marioalf2002/GitList-Plugin-Glpi"><img src="img/gitlistglpi.png" alt="GitList Plugin Glpi" width="480" height="270"></a>
+            <a href="https://github.com/Marioalf2002/EstudioC"><img src="img/cplus.jpg" alt="Estudio C++" width="480" height="250"></a>
         </td>
     </tr>
     <tr>
         <td>            
-            <a href="https://github.com/Marioalf2002/Tienda"><img src="img/tienda.jpg" alt="Tienda" width="480" height="270"></a>
+            <a href="https://github.com/Marioalf2002/IC-Terraquantum"><img src="img/icterraquantum.png" alt="Pagina Web ICTerraquantum" width="480" height="250"></a>
         </td>
         <td>            
-            <a href="https://github.com/Marioalf2002/CursoPHPMySql"><img src="img/php.png" alt="Curso PHP MySql" width="480" height="270"></a>
+            <a href="https://github.com/Marioalf2002/GitList-Plugin-Glpi"><img src="img/gitlistglpi.png" alt="GitList Plugin Glpi" width="480" height="250"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>            
+            <a href="https://github.com/Marioalf2002/Tienda"><img src="img/tienda.jpg" alt="Tienda" width="480" height="250"></a>
+        </td>
+        <td>            
+            <a href="https://github.com/Marioalf2002/CursoPHPMySql"><img src="img/php.png" alt="Curso PHP MySql" width="480" height="250"></a>
         </td>
     </tr>
 </table>
