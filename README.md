@@ -150,7 +150,7 @@
     </tr>
     <tr>
         <td>            
-            <a href="https://github.com/Marioalf2002/spline"><img src="img/spline.png" alt="Spline" width="480" height="260"></a>
+            <a href="https://github.com/Marioalf2002/spline"><img src="img/spline.png" alt="Spline" width="480" height="250"></a>
         </td>
         <td>            
             <a href="https://github.com/Marioalf2002/galaxy-parallax"><img src="img/galaxyparallax.png" alt="Galaxy Parallax" width="480" height="270"></a>
