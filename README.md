@@ -13,8 +13,8 @@
 
 ## 🎓 Títulos:
 
-- ### Técnico en Desarrollo de Software
-- ### Estudiante de Tecnología Desarrollo de Software
+- Técnico en Desarrollo de Software
+- Estudiante de Tecnología Desarrollo de Software
 
 ## 💻 Tecnología de Desarrollo de Software:
 
@@ -36,16 +36,6 @@
   <br>
 </div>
 
-<!-- [![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=#F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/)
-</br>
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=blue)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=purple)](https://visualstudio.microsoft.com/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=green)](https://developer.android.com/studio)
-</br>
-[![WordPress](https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=blue)](https://wordpress.org/)
-[![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp&logoColor=white&labelColor=orange)](https://www.apachefriends.org/index.html) -->
-
 ## 🎨 Programas de Diseño:
 
 <div align="center">
@@ -61,16 +51,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
 <br>
 </div>
-
-<!-- [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)]()
-[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=FF9A00)]()
-[![Audition](https://img.shields.io/badge/Audition-FF4500?style=for-the-badge&logo=adobe-audition&logoColor=white&labelColor=FF4500)]()
-</br>
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)]()
-[![Spline](https://img.shields.io/badge/Spline-FF69B4?style=for-the-badge&logo=spline&logoColor=white&labelColor=FF69B4)]()
-</br>
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC)]()
-[![CapCut](https://img.shields.io/badge/CapCut-FF0000?style=for-the-badge&logo=capcut&logoColor=white&labelColor=FF0000)]() -->
 
 ## 👨‍💻 Lenguajes de Programación:
 
@@ -89,14 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
   <br>
 </div>
-
-<!-- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)]()
-[![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange)]()
-[![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue)]()
-</br>
-[![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=blue)]()
-[![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=purple)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)]() -->
 
 ## 🗄️ Programas de Base de Datos:
 
@@ -128,14 +100,9 @@
   <br>
 </div>
 
-<!-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)]()
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)]()
-[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)](https://nextjs.org/)
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)]() -->
-
 ## 📚 Repositorios de interés:
 
-### Aquí tienes algunos de mis repositorios que podrían interesarte:
+Aquí tienes algunos de mis repositorios que podrían interesarte:
 
 <table style="width:100%">
 <br>
