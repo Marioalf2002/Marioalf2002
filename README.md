@@ -106,6 +106,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
   <br>
 </div>
 
@@ -122,7 +123,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
   <br>
