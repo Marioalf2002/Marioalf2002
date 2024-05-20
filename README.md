@@ -1,10 +1,3 @@
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app?username=Marioalf2002&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-    <img src="https://streak-stats.demolab.com?user=Marioalf2002&locale=es&mode=daily&theme=github_dark&hide_border=false&border_radius=16&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Marioalf2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=false&border_radius=16&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marioalf2002&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
 # 👋 Hola, soy Mario Hernandez
 
 ## 👨‍💻 Desarrollador Web Full-Stack y Estudiante Desarrollador Mobile Full-Stack
@@ -171,6 +164,15 @@ Aquí tienes algunos de mis repositorios que podrían interesarte:
         </td>
     </tr>
 </table>
+
+## Estadisticas
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app?username=Marioalf2002&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+    <img src="https://streak-stats.demolab.com?user=Marioalf2002&locale=es&mode=daily&theme=github_dark&hide_border=false&border_radius=16&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marioalf2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=false&border_radius=16&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marioalf2002&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ## 🙏 ¡Gracias por visitar mi perfil de GitHub! 🙌
 
