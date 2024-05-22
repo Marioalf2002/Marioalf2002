@@ -1,8 +1,6 @@
 # 👋 Hola, soy Mario Hernandez
 
-## 👨‍💻 Desarrollador Web Full-Stack y Estudiante Desarrollador Mobile Full-Stack
-
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web FullStak con experiencia en diversas tecnologías. Actualmente, también estoy inmerso en el emocionante mundo del desarrollo Mobile Full-Stack, ampliando mis habilidades para crear aplicaciones intuitivas y de alto rendimiento. Aquí encontrarás algunos de los proyectos en los que he trabajado y las habilidades que he adquirido a lo largo de mi carrera.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web Full Stack con amplia experiencia en diversas tecnologías, apasionado por crear soluciones web innovadoras y funcionales.
 
 ## 🎓 Títulos:
 
