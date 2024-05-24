@@ -1,3 +1,5 @@
+![https://github.com/Marioalf2002](img/banner_logo.png)
+
 # 👋 Hola, soy Mario Hernandez
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web Full Stack con amplia experiencia en diversas tecnologías, apasionado por crear soluciones web innovadoras y funcionales.
