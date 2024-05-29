@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Mario Hernandez
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado del diseño y desarrollo web, me encanta crear sitios web y aplicaciones web que sean atractivas, funcionales y accesibles para todos. Me especializo en el desarrollo de sitios web y aplicaciones web utilizando tecnologías modernas como HTML5, CSS3, JavaScript, React, Node.js, Express, MongoDB, entre otras.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado del diseño y desarrollo web, me encanta crear sitios web y aplicaciones web que sean atractivas, funcionales y accesibles para todos. Me especializo en el desarrollo de sitios web y aplicaciones web utilizando tecnologías modernas como HTML5, CSS3, JavaScript, React, Node.js, MongoDB, entre otras.
 
 ## 🎓 Títulos:
 
