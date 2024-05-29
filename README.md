@@ -1,5 +1,19 @@
 ![https://github.com/Marioalf2002](img/banner_logo.png)
 
+<div align="center">
+
+![GitHub Followers](https://img.shields.io/github/followers/Marioalf2002?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/Marioalf2002?style=social)
+
+<br>
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/message/MC62R3PTOHVDN1)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](contacto@mariowebdesigns.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariowebdesign)
+[![Discord](https://img.shields.io/badge/Discord-Chat-blue?style=flat&logo=discord)](https://discordapp.com/users/744348258893168680)
+
+</div>
+
 # 👋 Hola, soy Mario Hernandez
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado del diseño y desarrollo web, me encanta crear sitios web y aplicaciones web que sean atractivas, funcionales y accesibles para todos. Me especializo en el desarrollo de sitios web y aplicaciones web utilizando tecnologías modernas como HTML5, CSS3, JavaScript, React, Node.js, MongoDB, entre otras.
