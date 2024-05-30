@@ -2,6 +2,10 @@
 
 <div align="center">
 
+[![](https://visitcount.itsvg.in/api?id=Marioalf2002&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<br>
+
 ![GitHub Followers](https://img.shields.io/github/followers/Marioalf2002?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Marioalf2002?style=social)
 
