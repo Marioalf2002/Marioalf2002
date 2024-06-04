@@ -143,7 +143,7 @@ Aquí tienes algunos de mis repositorios que podrían interesarte:
     </tr>
     <tr>
         <td>          
-            <a href="https://github.com/Marioalf2002/SQLServer"><img src="img/sqlserver.png__i=AA" alt="SQLServer" width="480" height="250"></a>
+            <a href="https://github.com/Marioalf2002/eCommerce"><img src="img/eCommerce.png" alt="eCommerce" width="480" height="250"></a>
         </td>
         <td>
             <a href="https://github.com/Marioalf2002/RetosProgramacion"><img src="img/retosprogramacion.png" alt="Retos Programacion" width="480" height="250"></a>
