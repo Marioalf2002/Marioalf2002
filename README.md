@@ -1,6 +1,8 @@
 ![https://github.com/Marioalf2002](img/banner_logo.png)
-
+    
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Galada&pause=1000&color=B60202&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Web;Desarrollador+Full-Stack;SEO;Mantenimiento+Web;UX%2FUI;Desarrollador+Front-End;Desarrollador+Back-End;Desarrollador+React;Desarrollador+Next.js)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=Marioalf2002&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
