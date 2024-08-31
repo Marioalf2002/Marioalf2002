@@ -140,7 +140,7 @@ Aquí tienes algunos de mis repositorios que podrían interesarte:
             <a href="https://github.com/Marioalf2002/Two-Factor-Authentication"><img src="img/2fa.jpg" alt="Two Factor Authentication" width="480" height="250"></a>
         </td>
         <td>
-            <a href="https://github.com/Marioalf2002/MedellinEcologicoWeb"><img src="img/medellinecologicoweb.png" alt="Medellin Ecologico Web" width="480" height="250"></a>
+<!--             <a href="https://github.com/Marioalf2002/MedellinEcologicoWeb"><img src="img/medellinecologicoweb.png" alt="Medellin Ecologico Web" width="480" height="250"></a> -->
         </td>
     </tr>
     <tr>
