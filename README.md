@@ -29,13 +29,13 @@
 - Técnico en Desarrollo de Software
 - Estudiante de Ingeniería de Software
 
-## � Front-End:
+## 👨‍💻 Front-End:
 
 <div align="center">
 <br>
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
   <img width="12" />
@@ -200,6 +200,7 @@ Aquí tienes algunos de mis repositorios que podrían interesarte:
 ## Estadisticas
 
 <div align="center">
+    <img src="https://raw.githubusercontent.com/Marioalf2002/Marioalf2002/output/snake.svg" alt="Snake animation" />
     <img src="https://github-profile-trophy.vercel.app?username=Marioalf2002&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marioalf2002&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
     <br>
