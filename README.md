@@ -1,8 +1,8 @@
 ![https://github.com/Marioalf2002](img/banner_logo.png)
-    
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Galada&pause=1000&color=B60202&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Web;Desarrollador+Full-Stack;SEO;Mantenimiento+Web;UX%2FUI;Desarrollador+Front-End;Desarrollador+Back-End;Desarrollador+React;Desarrollador+Next.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing## 📚 Repositorios de interés:font=Galada&pause=1000&color=B60202&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Web;Desarrollador+Full-Stack;SEO;Mantenimiento+Web;UX%2FUI;Desarrollador+Front-End;Desarrollador+Back-End;Desarrollador+React;Desarrollador+Next.js)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=Marioalf2002&label=Views%20&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
@@ -13,7 +13,7 @@
 
 <br>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/message/MC62R3PTOHVDN1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/573247773515)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](contacto@mariowebdesigns.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariowebdesign)
 [![Discord](https://img.shields.io/badge/Discord-Chat-blue?style=flat&logo=discord)](https://discordapp.com/users/744348258893168680)
@@ -27,9 +27,77 @@
 ## 🎓 Títulos:
 
 - Técnico en Desarrollo de Software
-- Estudiante de Tecnología Desarrollo de Software
+- Estudiante de Ingeniería de Software
 
-## 💻 Tecnología de Desarrollo de Software:
+## � Front-End:
+
+<div align="center">
+<br>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript logo"  />
+  <br>
+</div>
+
+## ⚙️ Back-End:
+
+<div align="center">
+<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="50" alt="nestjs logo"  />
+  <br>
+</div>
+
+## 🎨 Diseño:
+
+<div align="center">
+<br>
+  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=au" height="50" alt="adobeaudition logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="50" alt="canva logo"  />
+<br>
+</div>
+
+## 🗄️ Base de Datos:
+
+<div align="center">
+<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="postgresql logo"  />
+  <br>
+</div>
+
+## � Tecnología de Desarrollo de Software:
 
 <div align="center">
 <br>
@@ -46,70 +114,6 @@
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="50" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="50" alt="cloudflare logo"  />
-  <br>
-</div>
-
-## 🎨 Programas de Diseño:
-
-<div align="center">
-<br>
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=au" height="50" alt="adobeaudition logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-<br>
-</div>
-
-## 👨‍💻 Lenguajes de Programación:
-
-<div align="center">
-<br>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-  <br>
-</div>
-
-## 🗄️ Programas de Base de Datos:
-
-<div align="center">
-<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
-  <br>
-</div>
-
-## 👨‍💻 Estudiando:
-
-<div align="center">
-<br>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
   <br>
 </div>
 
@@ -161,6 +165,14 @@ Aquí tienes algunos de mis repositorios que podrían interesarte:
     </tr>
     <tr>
         <td>            
+            <a href="https://estructurarteconstrucciones.com/"><img src="img/estrucutrarteconstrucciones.png" alt="Estructurarte Construcciones S.A.S" width="480" height="250"></a>
+        </td>
+        <td>            
+            <a href="https://arkanexo.com/"><img src="img/arkanexo.png" alt="ArkaNexo" width="480" height="250"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>            
             <a href="https://github.com/Marioalf2002/CursoJavaScript"><img src="img/js.png" alt="Curso JavaScript" width="480" height="250"></a>
         </td>
         <td>            
@@ -199,4 +211,3 @@ Aquí tienes algunos de mis repositorios que podrían interesarte:
 Espero que encuentres interesantes mis proyectos y que podamos colaborar en el futuro. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
 ¡Gracias nuevamente y que tengas una excelente experiencia escribiendo código! 😊
-
